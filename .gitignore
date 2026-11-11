@@ -1,0 +1,8 @@
+# generated
+blend/*.blend1
+renders/wip/
+renders/anim/frames/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
